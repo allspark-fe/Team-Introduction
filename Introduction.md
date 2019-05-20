@@ -2,7 +2,7 @@
 >用技术重构世界
 ---
 ## 我们是做什么的？(What are we doing?)
-我们专注于前端产品研发和前端技术的推送，持续提供优秀的服务和惊艳的产品。我们不断学习前端技术，力求在日新月异的互联网时代创造属于我们的时代。
+我们专注于前端产品研发和前端技术的推送，持续提供优秀的服务和惊艳的产品。通过不断学习前端技术，力求在日新月异的互联网时代创造属于我们的时代。
 (We focus on front-end product development and front-end technology push, continue to provide excellent service and amazing products. We are constantly learning the front-end technology and strive to create our own era in the ever-changing Internet age.)
 ## 我们的团队成员(Our team members)
 首领(leader)--Liu Keting
